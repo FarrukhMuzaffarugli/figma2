@@ -1,0 +1,441 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+.menu1 {display: flex;
+width: 100%;
+height: 790px;
+}
+.menu-nbr {display: flex;
+flex-direction: column;
+width: 57.7%;
+height: 790px;
+margin-top: 15px;
+}
+
+.doira {display: flex;
+    width: 100%;
+height: 164px;
+justify-content: center;
+align-items: end;
+gap: 5%;
+}
+.doira1{width: 19.71%;
+ height: 100%;
+
+}
+.doira1 img {width: 100%;
+    height: 100%;
+}
+.doira2 {width:81.29%;
+   height: 70%;
+   display: flex;
+
+}
+.doira2 h1 {color: #534847;
+    font-family: Raleway;
+    font-size: 55px;
+    font-style: normal;
+
+}
+.yellow {color: #E2B84C;
+    font-family: Raleway;
+    font-size: 55px;
+
+}
+.menu-nbr h6 {width: 428.264px;
+    height: 120.111px;
+    color: #8D8180;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 34.89px;
+margin-left: 24%;
+}
+.menu-nbr p {color: #E2B84C;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 24%;
+}
+.nbrimg img {width: 225px;
+    height: 225px;
+    flex-shrink: 0;
+margin-top: 210px;
+margin-left: 10%;
+}
+.bank {background-image: url(./suratlar/bank.svg);
+    background-size: cover;
+    background-position: center;
+    width: 42.3%;
+    height: 790px;
+    justify-content: end;
+    align-items: end;
+    display: flex;
+}
+.bank-menu {width: 53%;
+    height: 89px;
+    background: #F9F9F9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bank-menu p {color: #534847;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.menu2 {display: flex;
+    width: 100%;
+    height: 790px;
+}
+.menu2-1 {display: flex;
+flex-direction: column;
+flex: 1;
+align-items: center;
+justify-content: center;
+}
+.menu2-2 {display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    }
+    .menu2-1-nav {display: flex;
+        flex-direction: column;
+        width: 47.15%;
+        margin-left: 10px;
+     padding-top: 60px;
+    
+     
+    }
+    .menu2-1-nav h1 {color: #534847;
+        font-family: Raleway;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        width: 340px;
+    }
+    .menu2-1-nav p {color: #E2B84C;
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+   }
+
+    .menu2-1-nav img{width: 112px;
+        height: 225px;
+        margin-top: 250px;
+      display: flex;
+       margin-left: -90px;
+    }
+    .menu2-2-img {display: flex;
+justify-content: end;
+align-items: center;
+height: 220px;
+width: 100%;
+ }
+ .menu2-2-img img {width: 103px;
+    height: 103px;
+    margin-right: 10%;
+
+ }
+ .menu2-2-p {width: 70%;
+    height: 97px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+ }
+ .menu2-2-p p {color: #8D8180;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;}
+    .menu2-2-pp {width: 70%;
+        height: 97px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: 50px;
+    
+     }
+     .menu2-2-pp p {color: #8D8180;
+        font-family: Poppins;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;}
+     
+  .menu2-2-ppp {display: flex;
+margin-right: -70%;
+  }
+  .menu2-2-ppp p {color: #E4A655;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .menu3 {width: 100%;
+    height: 498px;
+display: flex;
+background-color: #F9F9F9;
+
+  }
+  .menu3-img {display: flex;
+flex: 1;
+  }
+.menu3-menu {display: flex;
+flex-direction: column;
+flex: 1;
+justify-content: space-between;
+padding-top: 5%;
+padding-bottom: 5%;
+padding-left: 5%;
+}
+.menu3-menu h1{color: #534847;
+    font-family: Raleway;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 30%;
+}
+.menu3-menu p {color: #8D8180;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 85%;
+height: 97px;
+}
+.menu3-menu button {background: #E6A859;
+    width: 30%;
+    height: 47px;
+    flex-shrink: 0;
+    color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: none;
+}
+
+.menu4 {display: flex;
+    flex-direction: column;
+    align-items: center;
+width: 100%;
+height: 990px;
+padding-top:  6%;
+padding-bottom: 6%;
+}
+.menu4-h {height: 70px;
+    width: 20%;
+
+}
+.menu4-h h1 {color: #534847;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.menu4-nav {display: flex;
+width: 100%;
+height: 263px;
+justify-content: center;
+gap: 15%;
+margin-top: 25px;
+}
+
+.menu4-img {width: 15%;
+    height: 263px;
+    display: flex;
+    flex-direction: column;
+align-items: center;
+}
+.menu4-img img {width: 60%;
+    height: 85.65px;
+
+}
+.menu4-img h1 {width: 178px;
+    height: 44px;
+    flex-shrink: 0;
+    color: #534847;
+text-align: center;
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 40%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.menu4-img p {width: 80%;
+    height: 54px;
+    flex-shrink: 0;
+    color: #8D8180;
+text-align: center;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 5%;
+
+}
+.menu4-h1 h1 {color: #534847;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+margin-top: 60px;
+
+}
+.menu4-footer {width: 100%;
+height: 334px;
+margin-top: 40px;
+display: flex;
+justify-content: center;
+gap: 6%;
+
+}
+.menu4-footer-img1 {background-image: url(./suratlar/menu41.svg);
+    width: 20%;
+    height: 334px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: end;
+    justify-content: left;
+}
+
+.menu4-footer-img2 {background-image: url(./suratlar/menu42.svg);
+    width: 20%;
+    height: 334px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: end;
+    justify-content: left;
+}
+
+.menu4-footer-img3 {background-image: url(./suratlar/menu43.svg);
+    width: 20%;
+    height: 334px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: end;
+    justify-content: left;
+}
+.menu4ftend {background: #F9F9F9;
+    width: 50%;
+    height: 55px;
+    display: flex;
+    
+    align-items: center;
+}
+.menu4ftend h1 {color: #534847;
+    font-family: Raleway;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 10%;
+width: 60%;
+}
+.menu5 {display: flex;
+    width: 100%;
+    height: 816px;
+    align-items: center;
+
+}
+.menu5left {display: flex;
+    width: 90%;
+    height: 816px;
+    background: #F9F9F9;
+    flex-direction: column;
+    padding-left: 8%;
+}
+.menu5right {display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 816px;
+    width: 10%;
+}
+.menu5right img {width: 80%;
+    height: 332px;}
+
+.left-nav {display: flex;
+width: 100%;
+height: 154px;
+justify-content: start;
+}
+.leftnav1 {width: 100%;
+    height: 662px;
+
+    }
+    .leftnav1 img {height: 100%;
+width: 100%;
+    }
+ .footer-nav {display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+
+ }   
+ .footer-nav1 {display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+
+ }  
+ .footer-nav h1 {color: #534847;
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+ }
+ .footer-nav p {color: #E2B84C;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 50px;
+
+ }
+ .footer-nav1 p {display: inline-flex;
+    padding-right: 3.33px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2px;
+    width: 50%;
+    color: #8D8180;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 80px;
+
+ }
